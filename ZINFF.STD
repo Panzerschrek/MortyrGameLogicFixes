@@ -8891,7 +8891,7 @@ rem ********************************************************************
 
  narzedzie 11
    typ_przedmiotu  KARTA_A
-   ikona  10
+   ikona  12
    bohater_ma     0
    bohater_ma_max 1
    ammo_przedm   -1
@@ -8908,7 +8908,7 @@ rem ********************************************************************
  
  narzedzie 12
    typ_przedmiotu  KARTA_B
-   ikona  11
+   ikona  13
    bohater_ma     0
    bohater_ma_max 1
    ammo_przedm   -1
@@ -8925,7 +8925,7 @@ rem ********************************************************************
 
  narzedzie 13
    typ_przedmiotu  KARTA_C
-   ikona  12
+   ikona  14
    bohater_ma     0
    bohater_ma_max 1
    ammo_przedm   -1
