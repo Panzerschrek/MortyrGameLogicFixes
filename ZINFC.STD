@@ -8764,6 +8764,7 @@ rem ********************************************************************
    przeladowanie     0
    dymienie          1
    odrzut            12
+   slad_na_scianie  -1
    kolizja_mur 0
 
    nazwa  podreczny dezintegrator protonowy
