@@ -21,6 +21,8 @@
  trzesienie_ziemi_standard = -1;
  silna_eksplozja_standard = 2;
  start_ptakow             = 24;
+ plusk_pocisku = -1
+ panika_szczurow = -1
 
  podnies_bron_a        =  5;
  podnies_bron_b        =  5;
@@ -41,6 +43,12 @@
  podnies_apteczka      = 104
  podnies_oslona        =  97
  podnies_inne          = 100
+ podnies_kwas_skaf      = 100
+ podnies_niewidzialnosc = 100
+ podnies_butla_tlenu    = 100
+ podnies_latarka        = 100
+ podnies_noktowizor     = 100
+ podnies_plecak_lot     = 100
 
  przeciwnik_rana_1     =  14
  przeciwnik_rana_2     =  15
