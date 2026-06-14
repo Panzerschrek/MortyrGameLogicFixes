@@ -4409,8 +4409,8 @@ rem ********************************************************************
    operacja 0
      animacja_naprzod
        anim_nr    65  start    0  liczba_obr 1
-       add_x    0  add_y    0  add_z  -16
-       szer_x  10  szer_y  10  szer_z  16
+       add_x    0  add_y    0  add_z  2
+       szer_x  10  szer_y  10  szer_z  3
        aktywnosc 0  maska     5
      zawartosc_skrzynki
        przedmiot   POCISK_B
