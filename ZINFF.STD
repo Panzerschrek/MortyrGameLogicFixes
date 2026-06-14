@@ -2909,8 +2909,8 @@ rem ********************************************************************
    operacja 0
      animacja_naprzod
        anim_nr    42  start    0  liczba_obr 1
-       add_x     0  add_y    0  add_z  -16
-       szer_x   20  szer_y   20  szer_z  20
+       add_x     0  add_y    0  add_z  -22
+       szer_x   20  szer_y   20  szer_z  22
        aktywnosc 0  maska     5
      jesli_zyje
        czas   8    nowa_op 0  nowa_op 1
