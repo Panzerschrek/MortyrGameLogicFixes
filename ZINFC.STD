@@ -3014,6 +3014,7 @@ rem ********************************************************************
        aktywnosc 0  maska     5
 
  aktor 52   500     1     1     1     2   ozdoba_wieza1
+ zabron_redukcji 1
    operacja 0
      krajobraz
        anim_nr    45  start    0  liczba_obr   1
@@ -6253,6 +6254,7 @@ rem ********************************************************************
 
 
  aktor 89   500     1     1     1     2   ozdoba_antena
+ zabron_redukcji 1
    operacja 0
      krajobraz
        anim_nr    89  start    0  liczba_obr   1
