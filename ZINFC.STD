@@ -7632,8 +7632,8 @@ rem ********************************************************************
    operacja 0
      animacja_naprzod
        anim_nr    120  start    0  liczba_obr 1
-       add_x    0  add_y    0  add_z  -16
-       szer_x  16  szer_y  16  szer_z  16
+       add_x    0  add_y    0  add_z  -2
+       szer_x  8  szer_y  8  szer_z  8
        aktywnosc 0  maska     5
      obrot_obiektu
        rotacja  4  czas  1024   nowa_op  0
@@ -7651,8 +7651,8 @@ rem ********************************************************************
    operacja 0
      animacja_naprzod
        anim_nr    121  start    0  liczba_obr 1
-       add_x    0  add_y    0  add_z  -16
-       szer_x  16  szer_y  16  szer_z  16
+       add_x    0  add_y    0  add_z  -2
+       szer_x  8  szer_y  8  szer_z  8
        aktywnosc 0  maska     5
      obrot_obiektu
        rotacja  4  czas  1024   nowa_op  0
@@ -7670,8 +7670,8 @@ rem ********************************************************************
    operacja 0
      animacja_naprzod
        anim_nr    122  start    0  liczba_obr 1
-       add_x    0  add_y    0  add_z  -16
-       szer_x  16  szer_y  16  szer_z  16
+       add_x    0  add_y    0  add_z  -2
+       szer_x  8  szer_y  8  szer_z  8
        aktywnosc 0  maska     5
      obrot_obiektu
        rotacja  4  czas  1024   nowa_op  0
@@ -7689,8 +7689,8 @@ rem ********************************************************************
    operacja 0
      animacja_naprzod
        anim_nr    123  start    0  liczba_obr 1
-       add_x    0  add_y    0  add_z  -16
-       szer_x  16  szer_y  16  szer_z  16
+       add_x    0  add_y    0  add_z  -2
+       szer_x  8  szer_y  8  szer_z  8
        aktywnosc 0  maska     5
      obrot_obiektu
        rotacja  4  czas  1024   nowa_op  0
@@ -7708,8 +7708,8 @@ rem ********************************************************************
    operacja 0
      animacja_naprzod
        anim_nr    124  start    0  liczba_obr 1
-       add_x    0  add_y    0  add_z  -16
-       szer_x  16  szer_y  16  szer_z  16
+       add_x    0  add_y    0  add_z  -2
+       szer_x  8  szer_y  8  szer_z  8
        aktywnosc 0  maska     5
      obrot_obiektu
        rotacja  4  czas  1024   nowa_op  0
@@ -7727,8 +7727,8 @@ rem ********************************************************************
    operacja 0
      animacja_naprzod
        anim_nr    125  start    0  liczba_obr 1
-       add_x    0  add_y    0  add_z  -16
-       szer_x  16  szer_y  16  szer_z  16
+       add_x    0  add_y    0  add_z  -2
+       szer_x  8  szer_y  8  szer_z  8
        aktywnosc 0  maska     5
      obrot_obiektu
        rotacja  4  czas  1024   nowa_op  0
