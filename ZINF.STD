@@ -7421,7 +7421,7 @@ rem ********************************************************************
      stoper
        czas   5    nowa_op 6
      emisja_dymu
-       poz_x  20   poz_y   -140  poz_z  -90
+       poz_x  20   poz_y   -110  poz_z  -70
        predkosc_x  0    predkosc_y  0   predkosc_z  -1
        and_czas    7
        model_dymu  0
@@ -7447,7 +7447,7 @@ rem ********************************************************************
      stoper
        czas   74    nowa_op 7
      emisja_dymu
-       poz_x  20   poz_y   -140  poz_z  -90
+       poz_x  20   poz_y   -110  poz_z  -70
        predkosc_x  0    predkosc_y  0   predkosc_z  -1
        and_czas    7
        model_dymu  0
@@ -7468,12 +7468,12 @@ rem ********************************************************************
        szer_x  64  szer_y  64  szer_z   10
        aktywnosc     1  maska     13
      emisja_dymu
-       poz_x  20   poz_y   -140  poz_z  -90
+       poz_x  20   poz_y   -110  poz_z  -70
        predkosc_x  0    predkosc_y  0   predkosc_z  -1
        and_czas    7
        model_dymu  0
      emisja_dymu
-       poz_x -20   poz_y   -120  poz_z  -90
+       poz_x -20   poz_y   -100  poz_z  -70
        predkosc_x  0    predkosc_y  0   predkosc_z  -1
        and_czas    15
        model_dymu  0
