@@ -7277,8 +7277,8 @@ rem ********************************************************************
    operacja 0                // upewnij sie ze wieza ustawiona
      animacja_kierunkowa
        anim_nr    114  start    0  liczba_obr 63
-       add_x    0  add_y     0  add_z  -48
-       szer_x  90  szer_y  157  szer_z  48
+       add_x    0  add_y     2  add_z  -44
+       szer_x  68  szer_y  118  szer_z  44
        aktywnosc     1  maska    13
        kierunek      0
      obrot_docelowy
@@ -7286,8 +7286,8 @@ rem ********************************************************************
        cel_kier 512
      animacja_naprzod
        anim_nr    115  start    0  liczba_obr 5
-       add_x    0  add_y    0  add_z  -112
-       szer_x  80  szer_y  80  szer_z   16
+       add_x    0  add_y    0  add_z  -118
+       szer_x  64  szer_y  64  szer_z   10
        aktywnosc     1  maska     5
      jesli_zyje
        czas   128    nowa_op 1  nowa_op 5
@@ -7299,8 +7299,8 @@ rem ********************************************************************
    operacja 1              // wypad z baru
      animacja_kierunkowa
        anim_nr    114  start    0  liczba_obr 63
-       add_x    0  add_y     0  add_z  -48
-       szer_x  90  szer_y  157  szer_z  48
+       add_x    0  add_y     2  add_z  -44
+       szer_x  68  szer_y  118  szer_z  44
        aktywnosc     1  maska     13
        kierunek      0
      ruch_obiektu
@@ -7308,16 +7308,16 @@ rem ********************************************************************
        add_kier  0
      animacja_naprzod
        anim_nr    115  start    0  liczba_obr 5
-       add_x    0  add_y    0  add_z  -112
-       szer_x  80  szer_y  80  szer_z   16
+       add_x    0  add_y    0  add_z  -118
+       szer_x  64  szer_y  64  szer_z   10
        aktywnosc     1  maska     13
      jesli_zyje
        czas   512    nowa_op 2  nowa_op 5
    operacja 2           // obroty wiezyczki
      animacja_kierunkowa
        anim_nr    114  start    0  liczba_obr  1
-       add_x    0  add_y     0  add_z  -48
-       szer_x  90  szer_y  157  szer_z  48
+       add_x    0  add_y     2  add_z  -44
+       szer_x  68  szer_y  118  szer_z  44
        aktywnosc     1  maska     13
        kierunek      0
      ruch_obiektu
@@ -7331,8 +7331,8 @@ rem ********************************************************************
        minkat       4
      animacja_naprzod
        anim_nr    115  start    0  liczba_obr 5
-       add_x    0  add_y    0  add_z  -112
-       szer_x  80  szer_y  80  szer_z   16
+       add_x    0  add_y    0  add_z  -118
+       szer_x  64  szer_y  64  szer_z   10
        aktywnosc     1  maska     13
      jesli_zyje
        czas   128    nowa_op 2  nowa_op 5
@@ -7344,8 +7344,8 @@ rem ********************************************************************
    operacja 3           // strzal dziala
      animacja_kierunkowa
        anim_nr    114  start    0  liczba_obr  1
-       add_x    0  add_y     0  add_z  -48
-       szer_x  90  szer_y  157  szer_z  48
+       add_x    0  add_y     2  add_z  -44
+       szer_x  68  szer_y  118  szer_z  44
        aktywnosc     1  maska     13
        kierunek      0
      ruch_obiektu
@@ -7353,8 +7353,8 @@ rem ********************************************************************
        add_kier  0
      animacja_naprzod
        anim_nr    115  start    0  liczba_obr 5
-       add_x    0  add_y    0  add_z  -112
-       szer_x  80  szer_y  80  szer_z   16
+       add_x    0  add_y    0  add_z  -118
+       szer_x  64  szer_y  64  szer_z   10
        aktywnosc     1  maska     13
      jesli_zyje
        czas   32    nowa_op 4  nowa_op 5
@@ -7370,8 +7370,8 @@ rem ********************************************************************
    operacja 4           // obroty po strzale
      animacja_kierunkowa
        anim_nr    114  start    0  liczba_obr  1
-       add_x    0  add_y     0  add_z  -48
-       szer_x  90  szer_y  157  szer_z  48
+       add_x    0  add_y     2  add_z  -44
+       szer_x  68  szer_y  118  szer_z  44
        aktywnosc     1  maska     13
        kierunek      0
      ruch_obiektu
@@ -7385,8 +7385,8 @@ rem ********************************************************************
        minkat       4
      animacja_naprzod
        anim_nr    115  start    0  liczba_obr 5
-       add_x    0  add_y    0  add_z  -112
-       szer_x  80  szer_y  80  szer_z   16
+       add_x    0  add_y    0  add_z  -118
+       szer_x  64  szer_y  64  szer_z   10
        aktywnosc     1  maska     13
      jesli_zyje
        czas    64    nowa_op 2  nowa_op 5
@@ -7397,8 +7397,8 @@ rem ********************************************************************
    operacja 5           // zgon
      animacja_kierunkowa
        anim_nr    114  start    0  liczba_obr  1
-       add_x    0  add_y     0  add_z  -48
-       szer_x  90  szer_y  157  szer_z  48
+       add_x    0  add_y     2  add_z  -44
+       szer_x  68  szer_y  118  szer_z  44
        aktywnosc     1  maska     13
        kierunek      0
      ruch_obiektu
@@ -7406,8 +7406,8 @@ rem ********************************************************************
        add_kier  0
      animacja_naprzod
        anim_nr    115  start    5  liczba_obr 5
-       add_x    0  add_y    0  add_z  -112
-       szer_x  80  szer_y  80  szer_z   16
+       add_x    0  add_y    0  add_z  -118
+       szer_x  64  szer_y  64  szer_z   10
        aktywnosc     1  maska     13
      stoper
        czas   5    nowa_op 6
@@ -7423,8 +7423,8 @@ rem ********************************************************************
    operacja  6           // zgon cd
      animacja_kierunkowa
        anim_nr    114  start   64  liczba_obr  74
-       add_x    0  add_y     0  add_z  -48
-       szer_x  90  szer_y  157  szer_z  48
+       add_x    0  add_y     2  add_z  -44
+       szer_x  68  szer_y  118  szer_z  44
        aktywnosc     1  maska     13
        kierunek      0
      ruch_obiektu
@@ -7432,8 +7432,8 @@ rem ********************************************************************
        add_kier  0
      animacja_naprzod
        anim_nr    115  start   10  liczba_obr  1
-       add_x    0  add_y    0  add_z  -112
-       szer_x  80  szer_y  80  szer_z   16
+       add_x    0  add_y    0  add_z  -118
+       szer_x  64  szer_y  64  szer_z   10
        aktywnosc     1  maska     13
      stoper
        czas   74    nowa_op 7
@@ -7446,8 +7446,8 @@ rem ********************************************************************
    operacja  7           // zgon end
      animacja_kierunkowa
        anim_nr    114  start  138  liczba_obr  1
-       add_x    0  add_y     0  add_z  -48
-       szer_x  90  szer_y  157  szer_z  48
+       add_x    0  add_y     2  add_z  -44
+       szer_x  68  szer_y  118  szer_z  44
        aktywnosc     1  maska     13
        kierunek      0
      ruch_obiektu
@@ -7455,8 +7455,8 @@ rem ********************************************************************
        add_kier  0
      animacja_naprzod
        anim_nr    115  start   10  liczba_obr  1
-       add_x    0  add_y    0  add_z  -112
-       szer_x  80  szer_y  80  szer_z   16
+       add_x    0  add_y    0  add_z  -118
+       szer_x  64  szer_y  64  szer_z   10
        aktywnosc     1  maska     13
      emisja_dymu
        poz_x  20   poz_y   -140  poz_z  -90
@@ -7474,8 +7474,8 @@ rem ********************************************************************
    operacja 8           // strzal z MG-42
      animacja_kierunkowa
        anim_nr    114  start    0  liczba_obr  1
-       add_x    0  add_y     0  add_z  -48
-       szer_x  90  szer_y  157  szer_z  48
+       add_x    0  add_y     2  add_z  -44
+       szer_x  68  szer_y  118  szer_z  44
        aktywnosc     1  maska     13
        kierunek      0
      ruch_obiektu
@@ -7483,8 +7483,8 @@ rem ********************************************************************
        add_kier  0
      animacja_naprzod
        anim_nr    115  start    0  liczba_obr 5
-       add_x    0  add_y    0  add_z  -112
-       szer_x  80  szer_y  80  szer_z   16
+       add_x    0  add_y    0  add_z  -118
+       szer_x  64  szer_y  64  szer_z   10
        aktywnosc     1  maska     13
      jesli_zyje
        czas   32    nowa_op 4  nowa_op 5
