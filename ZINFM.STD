@@ -7319,7 +7319,7 @@ rem ********************************************************************
      strzal_kierunkowy
        czas  16
        przedmiot 9
-       wspx    0  wspy  256   wspz -108
+       wspx    0  wspy  184   wspz -96
        stozek 1024
     odglos
        rodzaj  74
@@ -7449,7 +7449,7 @@ rem ********************************************************************
      strzal_kierunkowy
        czas  16
        przedmiot 7
-       wspx    0  wspy  256   wspz -108
+       wspx    0  wspy  184   wspz -96
        stozek 1024
 
 
