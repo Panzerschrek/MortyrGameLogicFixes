@@ -8390,16 +8390,16 @@ rem ********************************************************************
    operacja 0
      animacja_naprzod
        anim_nr     132  start    0  liczba_obr 1
-       add_x     0  add_y    0  add_z  -56
-       szer_x   56  szer_y 280  szer_z  56
+       add_x     0  add_y    0  add_z  -55
+       szer_x   41  szer_y 256  szer_z  54
        aktywnosc 0  maska     5
      jesli_zyje
        czas   8    nowa_op 0  nowa_op 1
    operacja 1
      animacja_naprzod
        anim_nr     67  start    0  liczba_obr 48
-       add_x     0  add_y    0  add_z  -35
-       szer_x   92  szer_y  20  szer_z  35
+       add_x     0  add_y    0  add_z  -6
+       szer_x   72  szer_y  72  szer_z  6
        aktywnosc 0  maska     5
      stoper
        czas   48    nowa_op 2
@@ -8415,8 +8415,8 @@ rem ********************************************************************
    operacja 1
      animacja_naprzod
        anim_nr     67  start    48  liczba_obr 1
-       add_x     0  add_y    0  add_z  -35
-       szer_x   92  szer_y  20  szer_z  35
+       add_x     0  add_y    0  add_z  -6
+       szer_x   72  szer_y  72  szer_z  6
        aktywnosc 0  maska     5
 
  aktor 129   4500     0     0     0     16   ozdoba_wagon_panz
@@ -8424,16 +8424,16 @@ rem ********************************************************************
    operacja 0
      animacja_naprzod
        anim_nr     133  start    0  liczba_obr 1
-       add_x     0  add_y    0  add_z  -28
-       szer_x   56  szer_y 192  szer_z  28
+       add_x     0  add_y    0  add_z  -27
+       szer_x   41  szer_y 194  szer_z  27
        aktywnosc 0  maska     5
      jesli_zyje
        czas   8    nowa_op 0  nowa_op 1
    operacja 1
      animacja_naprzod
        anim_nr     67  start    0  liczba_obr 48
-       add_x     0  add_y    0  add_z  -35
-       szer_x   92  szer_y  20  szer_z  35
+       add_x     0  add_y    0  add_z  -6
+       szer_x   72  szer_y  72  szer_z  6
        aktywnosc 0  maska     5
      stoper
        czas   48    nowa_op 2
@@ -8449,8 +8449,8 @@ rem ********************************************************************
    operacja 1
      animacja_naprzod
        anim_nr     67  start    48  liczba_obr 1
-       add_x     0  add_y    0  add_z  -35
-       szer_x   92  szer_y  20  szer_z  35
+       add_x     0  add_y    0  add_z  -6
+       szer_x   72  szer_y  72  szer_z  6
        aktywnosc 0  maska     5
 
 
