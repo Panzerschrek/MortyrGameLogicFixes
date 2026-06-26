@@ -2759,7 +2759,7 @@ rem ********************************************************************
    operacja 0
      animacja_naprzod
        anim_nr    26  start    0  liczba_obr 1
-       add_x    0  add_y    0  add_z  -16
+       add_x    0  add_y    0  add_z  -8
        szer_x  16  szer_y  16  szer_z  16
        aktywnosc 0  maska     5
      zawartosc_skrzynki
