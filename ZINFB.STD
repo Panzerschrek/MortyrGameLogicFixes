@@ -8412,7 +8412,7 @@ rem ********************************************************************
        pole_razenia   512  10
      zarowka_gasnaca
        parametry  1   16   400  0   -32
-   operacja 1
+   operacja 2
      animacja_naprzod
        anim_nr     67  start    48  liczba_obr 1
        add_x     0  add_y    0  add_z  -6
@@ -8446,7 +8446,7 @@ rem ********************************************************************
        pole_razenia   512  10
      zarowka_gasnaca
        parametry  1   16   400  0   -32
-   operacja 1
+   operacja 2
      animacja_naprzod
        anim_nr     67  start    48  liczba_obr 1
        add_x     0  add_y    0  add_z  -6
