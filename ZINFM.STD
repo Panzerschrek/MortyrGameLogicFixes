@@ -7462,8 +7462,8 @@ rem ********************************************************************
    operacja 0
      animacja_naprzod
        anim_nr    116  start    0  liczba_obr 1
-       add_x     0  add_y    0  add_z  -88
-       szer_x   88  szer_y   7  szer_z  88
+       add_x     0  add_y    4  add_z  -116
+       szer_x  150  szer_y   12  szer_z  116
        aktywnosc 0  maska     5
      kolizja_z_wrogiem
        nowa_op 1
