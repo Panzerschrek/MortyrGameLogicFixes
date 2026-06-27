@@ -3611,48 +3611,48 @@ rem ********************************************************************
    operacja 0
      animacja_naprzod
        anim_nr    58  start    0  liczba_obr 20
-       add_x     0  add_y    0  add_z  -16
-       szer_x   20  szer_y   20  szer_z  20
+       add_x     0  add_y    0  add_z  -62
+       szer_x   22  szer_y   22  szer_z  62
        aktywnosc 0  maska     5
      jesli_zyje
        czas   20    nowa_op 1  nowa_op 5
    operacja 1  
      animacja_naprzod
        anim_nr    58  start    20  liczba_obr 16
-       add_x     0  add_y    0  add_z  -16
-       szer_x   20  szer_y   20  szer_z  20
+       add_x     0  add_y    0  add_z  -62
+       szer_x   22  szer_y   22  szer_z  62
        aktywnosc 0  maska     5
      jesli_zyje
        czas   15    nowa_op 2  nowa_op 5
    operacja 2
      animacja_naprzod
        anim_nr    58  start    36  liczba_obr 14
-       add_x     0  add_y    0  add_z  -16
-       szer_x   20  szer_y   20  szer_z  20
+       add_x     0  add_y    0  add_z  -62
+       szer_x   22  szer_y   22  szer_z  62
        aktywnosc 0  maska     5
      jesli_zyje
        czas   15    nowa_op 3  nowa_op 5
    operacja 3
      animacja_naprzod
        anim_nr    58  start    50  liczba_obr 10
-       add_x     0  add_y    0  add_z  -16
-       szer_x   20  szer_y   20  szer_z  20
+       add_x     0  add_y    0  add_z  -62
+       szer_x   22  szer_y   22  szer_z  62
        aktywnosc 0  maska     5
      jesli_zyje
        czas   10    nowa_op 4  nowa_op 5
    operacja 4
      animacja_naprzod
        anim_nr    58  start   60  liczba_obr 4
-       add_x     0  add_y    0  add_z  -16
-       szer_x   20  szer_y   20  szer_z  20
+       add_x     0  add_y    0  add_z  -62
+       szer_x   22  szer_y   22  szer_z  62
        aktywnosc 0  maska     5
      jesli_zyje
        czas   4    nowa_op 0  nowa_op 5
    operacja 5
      animacja_naprzod
        anim_nr    51  start    0  liczba_obr 32
-       add_x     0  add_y    0  add_z  -16
-       szer_x   16  szer_y   16  szer_z  16
+       add_x     0  add_y    0  add_z  -62
+       szer_x   22  szer_y   22  szer_z  62
        aktywnosc 0  maska     5
      stoper
        czas   30    nowa_op 6
