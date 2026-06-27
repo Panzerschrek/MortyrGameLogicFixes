@@ -3082,40 +3082,40 @@ rem ********************************************************************
    operacja 0
      animacja_naprzod
        anim_nr    50  start    0  liczba_obr 20
-       add_x     0  add_y    0  add_z  -16
-       szer_x   20  szer_y   20  szer_z  20
+       add_x     0  add_y    0  add_z  -22
+       szer_x   15  szer_y   15  szer_z  26
        aktywnosc 0  maska     5
      jesli_zyje
        czas   20    nowa_op 1  nowa_op 5
    operacja 1  
      animacja_naprzod
        anim_nr    50  start    20  liczba_obr 16
-       add_x     0  add_y    0  add_z  -16
-       szer_x   20  szer_y   20  szer_z  20
+       add_x     0  add_y    0  add_z  -22
+       szer_x   15  szer_y   15  szer_z  26
        aktywnosc 0  maska     5
      jesli_zyje
        czas   15    nowa_op 2  nowa_op 5
    operacja 2
      animacja_naprzod
        anim_nr    50  start    36  liczba_obr 14
-       add_x     0  add_y    0  add_z  -16
-       szer_x   20  szer_y   20  szer_z  20
+       add_x     0  add_y    0  add_z  -22
+       szer_x   15  szer_y   15  szer_z  26
        aktywnosc 0  maska     5
      jesli_zyje
        czas   15    nowa_op 3  nowa_op 5
    operacja 3
      animacja_naprzod
        anim_nr    50  start    50  liczba_obr 10
-       add_x     0  add_y    0  add_z  -16
-       szer_x   20  szer_y   20  szer_z  20
+       add_x     0  add_y    0  add_z  -22
+       szer_x   15  szer_y   15  szer_z  26
        aktywnosc 0  maska     5
      jesli_zyje
        czas   10    nowa_op 4  nowa_op 5
    operacja 4
      animacja_naprzod
        anim_nr    50  start   60  liczba_obr 8
-       add_x     0  add_y    0  add_z  -16
-       szer_x   20  szer_y   20  szer_z  20
+       add_x     0  add_y    0  add_z  -22
+       szer_x   15  szer_y   15  szer_z  26
        aktywnosc 0  maska     5
      jesli_zyje
        czas   8    nowa_op 0  nowa_op 5
