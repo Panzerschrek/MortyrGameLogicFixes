@@ -2681,7 +2681,7 @@ rem ********************************************************************
      animacja_naprzod
        anim_nr    26  start    0  liczba_obr 1
        add_x    0  add_y    0  add_z  -16
-       szer_x  16  szer_y  16  szer_z  16
+       szer_x  16  szer_y  16  szer_z  24
        aktywnosc 0  maska     5
      zawartosc_skrzynki
        przedmiot   PLECAK_LOT
