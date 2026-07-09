@@ -2992,8 +2992,8 @@ rem ********************************************************************
        czas   8    nowa_op 0  nowa_op 1
    operacja 1
      animacja_naprzod
-       anim_nr    44  start    0  liczba_obr 31
-       add_x     0  add_y    0  add_z  0
+       anim_nr    44  start    0  liczba_obr 32
+       add_x     0  add_y    0  add_z  4
        szer_x   0  szer_y   0  szer_z  0
        aktywnosc 0  maska     5
      stoper
@@ -3009,8 +3009,8 @@ rem ********************************************************************
        parametry  1   96   400  0   -32
    operacja 2
       animacja_naprzod
-       anim_nr    44  start    31  liczba_obr 1
-       add_x     0  add_y    0  add_z  0
+       anim_nr    44  start    32  liczba_obr 1
+       add_x     0  add_y    0  add_z  1
        szer_x   0  szer_y   0  szer_z  0
        aktywnosc 0  maska     5
 
