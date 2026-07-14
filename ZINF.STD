@@ -6317,7 +6317,7 @@ rem ********************************************************************
  zabron_redukcji 1
    operacja 0
      krajobraz
-       anim_nr    91  start    0  liczba_obr   6
+       anim_nr    91  start    0  liczba_obr   12
      sternik
        tryb_pracy   11
        szybkosc     50

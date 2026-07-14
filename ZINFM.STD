@@ -6271,7 +6271,7 @@ rem ********************************************************************
  aktor 91   500     1     1     1     2   ozdoba_fockewulf
    operacja 0
      krajobraz
-       anim_nr    91  start    0  liczba_obr   6
+       anim_nr    91  start    0  liczba_obr   12
      sternik
        tryb_pracy   11
        szybkosc     50
