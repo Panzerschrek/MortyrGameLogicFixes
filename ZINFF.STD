@@ -5625,7 +5625,7 @@ rem ********************************************************************
        obrot         1
        utrata_energi         -1    -1    8
        timeout          2  11
-       przedmiot         6    24   26   -60    1
+       przedmiot         6    32   37   -61    1
     odglos
        rodzaj  47
        moc    256
@@ -5720,7 +5720,7 @@ rem ********************************************************************
        obrot         1
        utrata_energi         -1    -1    8
        timeout          2  12
-       przedmiot         6    -24   26   -60    1
+       przedmiot         6    -44   37   -61    1
     odglos
        rodzaj  47
        moc    256
@@ -5738,7 +5738,7 @@ rem ********************************************************************
        obrot         1
        utrata_energi         -1    -1    8
        timeout          2  13
-       przedmiot         6    24   26   -60    1
+       przedmiot         6    32   37   -70    1
     odglos
        rodzaj  47
        moc    256
@@ -5756,7 +5756,7 @@ rem ********************************************************************
        obrot         1
        utrata_energi         -1    -1    8
        timeout          2  14
-       przedmiot         6    -24   26   -60    1
+       przedmiot         6    -44   37   -70    1
     odglos
        rodzaj  47
        moc    256
@@ -5774,7 +5774,7 @@ rem ********************************************************************
        obrot         1
        utrata_energi         -1    -1    8
        timeout          2  15
-       przedmiot         6    24   26   -60    1
+       przedmiot         6    32   37   -61    1
     odglos
        rodzaj  47
        moc    256
@@ -5792,7 +5792,7 @@ rem ********************************************************************
        obrot         1
        utrata_energi         -1    -1    8
        timeout          2  16
-       przedmiot         6    -24   26   -60    1
+       przedmiot         6    -44   37   -61    1
     odglos
        rodzaj  47
        moc    256
@@ -5810,7 +5810,7 @@ rem ********************************************************************
        obrot         1
        utrata_energi         -1    -1    8
        timeout          2  17
-       przedmiot         6    24   26   -60    1
+       przedmiot         6    32   37   -70    1
     odglos
        rodzaj  47
        moc    256
@@ -5828,7 +5828,7 @@ rem ********************************************************************
        obrot         1
        utrata_energi         -1    -1    8
        timeout          2  5
-       przedmiot         6    -24   26   -60    1
+       przedmiot         6    -44   37   -70    1
     odglos
        rodzaj  47
        moc    256
