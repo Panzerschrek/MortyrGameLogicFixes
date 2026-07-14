@@ -5644,7 +5644,7 @@ rem ********************************************************************
        obrot         1
        utrata_energi         -1    -1    8
        timeout          2  18
-       przedmiot         8    6   16   -52    1
+       przedmiot         8    36    0   -80    1
     odglos
        rodzaj  47
        moc    256
@@ -5846,7 +5846,7 @@ rem ********************************************************************
        obrot         1
        utrata_energi         -1    -1    8
        timeout          2  19
-       przedmiot         8    6   46   -64    1
+       przedmiot         8    -38    0   -80    1
     odglos
        rodzaj  44
        moc    256
@@ -5863,7 +5863,7 @@ rem ********************************************************************
        obrot         1
        utrata_energi         -1    -1    8
        timeout          2  20
-       przedmiot         8    6   46   -52    1
+       przedmiot         8    36   20   -80    1
     odglos
        rodzaj  44
        moc    256
@@ -5880,7 +5880,7 @@ rem ********************************************************************
        obrot         1
        utrata_energi         -1    -1    8
        timeout          2  21
-       przedmiot         8    6   46   -52    1
+       przedmiot         8    -38    0   -80    1
     odglos
        rodzaj  44
        moc    256
@@ -5897,7 +5897,7 @@ rem ********************************************************************
        obrot         1
        utrata_energi         -1    -1    8
        timeout          2  22
-       przedmiot         8    6   46   -52    1
+       przedmiot         8    36    0   -80    1
     odglos
        rodzaj  44
        moc    256
@@ -5914,7 +5914,7 @@ rem ********************************************************************
        obrot         1
        utrata_energi         -1    -1    8
        timeout          2  1
-       przedmiot         8    6   46   -52    1
+       przedmiot         8    -38    0   -80    1
     odglos
        rodzaj  44
        moc    256
