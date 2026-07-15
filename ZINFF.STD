@@ -481,7 +481,7 @@ rem ********************************************************************
        obrot        1
        utrata_energi     8    7   10
        timeout           2   13
-       przedmiot         5    6   16   -52    1
+       przedmiot         5   -4   36   -42    1
        
    operacja 7                           // postrzal 1
      animacja_naprzod
@@ -575,7 +575,7 @@ rem ********************************************************************
        obrot        1
        utrata_energi     8    7   9
        timeout           2   14
-       przedmiot         5    6   16   -52    1
+       przedmiot         5   -4   36   -42    1
        
    operacja 14            // strzal 2
      animacja_naprzod
@@ -589,7 +589,7 @@ rem ********************************************************************
        obrot        1
        utrata_energi     8    7   9
        timeout           2   15
-       przedmiot         5    6   16   -52    1
+       przedmiot         5   -4   36   -42    1
        
    operacja 15            // strzal 2
      animacja_naprzod
@@ -603,7 +603,7 @@ rem ********************************************************************
        obrot        1
        utrata_energi     8    7   9
        timeout           2   16
-       przedmiot         5    6   16   -52    1
+       przedmiot         5   -4   36   -42    1
        
    operacja 16            // strzal 2
      animacja_naprzod
@@ -617,7 +617,7 @@ rem ********************************************************************
        obrot        1
        utrata_energi     8    7   9
        timeout           2   17
-       przedmiot         5    6   16   -52    1
+       przedmiot         5   -4   36   -42    1
        
    operacja 17            // strzal 2
      animacja_naprzod
@@ -631,7 +631,7 @@ rem ********************************************************************
        obrot        1
        utrata_energi     8    7   9
        timeout           2   18
-       przedmiot         5    6   16   -52    1
+       przedmiot         5   -4   36   -42    1
        
    operacja 18            // strzal 2
      animacja_naprzod
@@ -645,7 +645,7 @@ rem ********************************************************************
        obrot        1
        utrata_energi     8    7   9
        timeout           2   19
-       przedmiot         5    6   16   -52    1
+       przedmiot         5   -4   36   -42    1
        
    operacja 19            // strzal 2
      animacja_naprzod
@@ -659,7 +659,7 @@ rem ********************************************************************
        obrot        1
        utrata_energi     8    7   9
        timeout           2   20
-       przedmiot         5    6   16   -52    1
+       przedmiot         5   -4   36   -42    1
        
    operacja 20            // strzal 2
      animacja_naprzod
@@ -673,7 +673,7 @@ rem ********************************************************************
        obrot        1
        utrata_energi     8    7   9
        timeout           2   21
-       przedmiot         5    6   16   -52    1
+       przedmiot         5   -4   36   -42    1
        
    operacja 21            // strzal 2
      animacja_naprzod
@@ -687,7 +687,7 @@ rem ********************************************************************
        obrot        1
        utrata_energi     8    7   9
        timeout           2   22
-       przedmiot         5    6   16   -52    1
+       przedmiot         5   -4   36   -42    1
        
    operacja 22            // strzal 2
      animacja_naprzod
@@ -701,7 +701,7 @@ rem ********************************************************************
        obrot        1
        utrata_energi     8    7   9
        timeout           2   23
-       przedmiot         5    6   16   -52    1
+       przedmiot         5   -4   36   -42    1
        
    operacja 23            // strzal 2
      animacja_naprzod
@@ -715,7 +715,7 @@ rem ********************************************************************
        obrot        1
        utrata_energi     8    7   9
        timeout           2   24
-       przedmiot         5    6   16   -52    1
+       przedmiot         5   -4   36   -42    1
        
 
    operacja 24            // strzal 3
@@ -730,7 +730,7 @@ rem ********************************************************************
        obrot        1
        utrata_energi     7    8   10
        timeout           2    3
-       przedmiot         5    6   16   -52    1
+       przedmiot         5   -4   36   -42    1
        dogodna_pozycja   2    6    6
        
    operacja 25                // przewrot
