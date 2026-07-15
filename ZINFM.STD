@@ -2538,7 +2538,7 @@ rem ********************************************************************
        szybkosc     0
        obrot        1
        utrata_energi     6    6    7
-       przedmiot      6    -6   16   -52    21
+       przedmiot      6    12    8   -54    21
        przemiana    1   31   9   13
        
    operacja  13            // poddanie sie
