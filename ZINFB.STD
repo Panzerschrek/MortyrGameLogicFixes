@@ -2240,7 +2240,7 @@ rem ********************************************************************
        szybkosc     0
        obrot        1
        utrata_energi    -1   -1   3
-       przedmiot     7    6   16   -52    15
+       przedmiot     7  -12    8   -42    15
        przemiana   1  21  5   11
         
    operacja 8                           // postrzal2
