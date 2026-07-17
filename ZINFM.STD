@@ -317,7 +317,7 @@
        obrot        1
        utrata_energi    4   5   11
        timeout      28   2
-       przedmiot     3   -6   16   -52   2
+       przedmiot     3    6   24   -54   2
        dogodna_pozycja  28  9  6
        
    operacja 10
