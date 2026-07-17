@@ -7278,8 +7278,8 @@ rem ********************************************************************
    operacja 0                // upewnij sie ze wieza ustawiona
      animacja_kierunkowa
        anim_nr    114  start    0  liczba_obr 63
-       add_x    0  add_y     2  add_z  -44
-       szer_x  68  szer_y  118  szer_z  44
+       add_x   14  add_y     2  add_z  -44
+       szer_x  82  szer_y  118  szer_z  44
        aktywnosc     1  maska    13
        kierunek      0
      obrot_docelowy
@@ -7300,8 +7300,8 @@ rem ********************************************************************
    operacja 1              // wypad z baru
      animacja_kierunkowa
        anim_nr    114  start    0  liczba_obr 63
-       add_x    0  add_y     2  add_z  -44
-       szer_x  68  szer_y  118  szer_z  44
+       add_x   14  add_y     2  add_z  -44
+       szer_x  82  szer_y  118  szer_z  44
        aktywnosc     1  maska     13
        kierunek      0
      ruch_obiektu
