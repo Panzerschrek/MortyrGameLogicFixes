@@ -2573,8 +2573,8 @@ rem ********************************************************************
        utrata_energi     6    6    7
        timeout       7    14
     odglos
-       rodzaj 105
-       moc    100
+       rodzaj 30
+       moc    200
        
    operacja  14            // rece w gorze i oddycha
      animacja_naprzod
@@ -2604,9 +2604,8 @@ rem ********************************************************************
        utrata_energi     6    6    7
        timeout       17    14
     odglos
-       rodzaj 105
-       moc    100
-
+       rodzaj 30
+       moc    200
 
 
 
