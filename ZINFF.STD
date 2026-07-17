@@ -4318,7 +4318,7 @@ rem ********************************************************************
        obrot        1
        utrata_energi    -1   -1    5
        timeout      51   12
-       przedmiot     2   -6   16   -52   34
+       przedmiot     2   -5   16   -48   30
        
    operacja 11        // ************ przejscie do ataku **********
      animacja_naprzod
