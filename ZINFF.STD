@@ -6484,7 +6484,7 @@ rem ********************************************************************
        obrot         1
        utrata_energi         -1    -1    9
        timeout           8  5
-       przedmiot         4    6   16   -52    1
+       przedmiot         4    0   12   -30    1
     odglos
        rodzaj  37
        moc    100
@@ -6501,7 +6501,7 @@ rem ********************************************************************
        obrot         1
        utrata_energi         -1    -1    9
        timeout           8  6
-       przedmiot         4    6   16   -52    1
+       przedmiot         4    0   12   -36    1
     odglos
        rodzaj  37
        moc    100
@@ -6519,7 +6519,7 @@ rem ********************************************************************
        w_zasiegu_strzalu_b  8  2  8
        utrata_energi         -1    -1    9
        timeout           8  7
-       przedmiot         4    6   16   -52    1
+       przedmiot         4    0   12   -32    1
     odglos
        rodzaj  37
        moc    100
