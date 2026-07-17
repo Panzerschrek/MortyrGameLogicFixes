@@ -3328,7 +3328,7 @@ rem ********************************************************************
        obrot        1
        utrata_energi    -1   -1   5
        timeout      8   7
-       przedmiot     3   -6   16   -52   2
+       przedmiot     3    3   35   -32   2
        
        
    operacja 5
