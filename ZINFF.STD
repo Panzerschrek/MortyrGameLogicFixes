@@ -5701,7 +5701,7 @@ rem ********************************************************************
        tryb_pracy   1
        szybkosc     0
        obrot        0
-       utrata_energi    -1   -1    16
+       utrata_energi    -1   -1    8
        timeout     88   1
     odglos
        rodzaj  38
