@@ -5126,7 +5126,7 @@ rem ********************************************************************
        obrot         1
        utrata_energi         -1    -1    16
        timeout           8  8
-       przedmiot         4    6   16   -52    1
+       przedmiot         4    6   16   -48    1
     odglos
        rodzaj  37
        moc    100
