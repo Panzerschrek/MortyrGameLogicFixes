@@ -6693,7 +6693,7 @@ rem ********************************************************************
        obrot         1
        utrata_energi         -1    -1    2
        timeout           10 6 
-       przedmiot         6    6   16   -52    1
+       przedmiot         6    7   32   -68    1
     odglos
        rodzaj  45
        moc    255
@@ -6710,7 +6710,7 @@ rem ********************************************************************
        obrot         1
        utrata_energi         -1    -1    2
        timeout           10 7 
-       przedmiot         6    6   16   -52    1
+       przedmiot         6    3   32   -68    1
     odglos
        rodzaj  45
        moc    255
@@ -6727,7 +6727,7 @@ rem ********************************************************************
        obrot         1
        utrata_energi         -1    -1    2
        timeout           10 8
-       przedmiot         6    6   16   -52    1
+       przedmiot         6    7   32   -68    1
     odglos
        rodzaj  45
        moc    255
@@ -6744,7 +6744,7 @@ rem ********************************************************************
        obrot         1
        utrata_energi         -1    -1    2
        timeout           10 9 
-       przedmiot         6    6   16   -52    1
+       przedmiot         6    3   32   -68    1
     odglos
        rodzaj  45
        moc    255
@@ -6761,7 +6761,7 @@ rem ********************************************************************
        obrot         1
        utrata_energi         -1    -1    2
        timeout           10 1
-       przedmiot         6    6   16   -52    1
+       przedmiot         6    7   32   -68    1
     odglos
        rodzaj  45
        moc    255
@@ -6897,7 +6897,7 @@ rem ********************************************************************
        obrot         1
        utrata_energi         -1    -1    2
        timeout           10 6 
-       przedmiot         6    6   16   -52    1
+       przedmiot         6    7   32   -68    1
     odglos
        rodzaj  45
        moc    255
@@ -6914,7 +6914,7 @@ rem ********************************************************************
        obrot         1
        utrata_energi         -1    -1    2
        timeout           10 7 
-       przedmiot         6    6   16   -52    1
+       przedmiot         6    3   32   -68    1
     odglos
        rodzaj  45
        moc    255
@@ -6931,7 +6931,7 @@ rem ********************************************************************
        obrot         1
        utrata_energi         -1    -1    2
        timeout           10 8
-       przedmiot         6    6   16   -52    1
+       przedmiot         6    7   32   -68    1
     odglos
        rodzaj  45
        moc    255
@@ -6948,7 +6948,7 @@ rem ********************************************************************
        obrot         1
        utrata_energi         -1    -1    2
        timeout           10 9 
-       przedmiot         6    6   16   -52    1
+       przedmiot         6    3   32   -68    1
     odglos
        rodzaj  45
        moc    255
@@ -6965,7 +6965,7 @@ rem ********************************************************************
        obrot         1
        utrata_energi         -1    -1    2
        timeout           10 1
-       przedmiot         6    6   16   -52    1
+       przedmiot         6    7   32   -68    1
     odglos
        rodzaj  45
        moc    255
@@ -7100,7 +7100,7 @@ rem ********************************************************************
        obrot         1
        utrata_energi         -1    -1    2
        timeout           10 6 
-       przedmiot         6    6   16   -52    1
+       przedmiot         6    7   32   -68    1
     odglos
        rodzaj  45
        moc    255
@@ -7117,7 +7117,7 @@ rem ********************************************************************
        obrot         1
        utrata_energi         -1    -1    2
        timeout           10 7 
-       przedmiot         6    6   16   -52    1
+       przedmiot         6    3   32   -68    1
     odglos
        rodzaj  45
        moc    255
@@ -7134,7 +7134,7 @@ rem ********************************************************************
        obrot         1
        utrata_energi         -1    -1    2
        timeout           10 8
-       przedmiot         6    6   16   -52    1
+       przedmiot         6    7   32   -68    1
     odglos
        rodzaj  45
        moc    255
@@ -7151,7 +7151,7 @@ rem ********************************************************************
        obrot         1
        utrata_energi         -1    -1    2
        timeout           10 9 
-       przedmiot         6    6   16   -52    1
+       przedmiot         6    3   32   -68    1
     odglos
        rodzaj  45
        moc    255
@@ -7168,7 +7168,7 @@ rem ********************************************************************
        obrot         1
        utrata_energi         -1    -1    2
        timeout           10 1
-       przedmiot         6    6   16   -52    1
+       przedmiot         6    7   32   -68    1
     odglos
        rodzaj  45
        moc    255
