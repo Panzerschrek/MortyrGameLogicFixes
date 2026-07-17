@@ -6063,7 +6063,7 @@ rem ********************************************************************
        obrot        1
        utrata_energi    -1   -1   5
        timeout      4   8
-       przedmiot     6   -6   16   -16   2
+       przedmiot     6  -23   20   -38   2
     odglos
        rodzaj  35
        moc    200
@@ -6134,7 +6134,7 @@ rem ********************************************************************
        obrot        1
        utrata_energi    -1   -1   5
        timeout      4   9
-       przedmiot     6   -6   16   -16   2
+       przedmiot     6   22   20   -38   2
     odglos
        rodzaj  35
        moc    200
@@ -6152,7 +6152,7 @@ rem ********************************************************************
        obrot        1
        utrata_energi    -1   -1   5
        timeout      4   10
-       przedmiot     6   -6   16   -16   2
+       przedmiot     6  -23   20   -38   2
     odglos
        rodzaj  35
        moc    200
@@ -6169,7 +6169,7 @@ rem ********************************************************************
        obrot        1
        utrata_energi    -1   -1   5
        timeout      4   11
-       przedmiot     6   -6   16   -16   2
+       przedmiot     6   22   20   -38   2
     odglos
        rodzaj  35
        moc    200
@@ -6187,7 +6187,7 @@ rem ********************************************************************
        obrot        1
        utrata_energi    -1   -1   5
        timeout      4   12
-       przedmiot     6   -6   16   -16   2
+       przedmiot     6  -23   20   -38   2
     odglos
        rodzaj  35
        moc    200
@@ -6204,7 +6204,7 @@ rem ********************************************************************
        obrot        1
        utrata_energi    -1   -1   5
        timeout      4   13
-       przedmiot     6   -6   16   -16   2
+       przedmiot     6   22   20   -38   2
     odglos
        rodzaj  35
        moc    200
@@ -6221,7 +6221,7 @@ rem ********************************************************************
        obrot        1
        utrata_energi    -1   -1   5
        timeout      4   14
-       przedmiot     6   -6   16   -16   2
+       przedmiot     6  -23   20   -38   2
     odglos
        rodzaj  35
        moc    200
@@ -6239,7 +6239,7 @@ rem ********************************************************************
        w_zasiegu_strzalu_b  3    2   3
        utrata_energi    -1   -1   5
        timeout      4   15
-       przedmiot     6   -6   16   -16   2
+       przedmiot     6   22   20   -38   2
     odglos
        rodzaj  35
        moc    200
@@ -6256,7 +6256,7 @@ rem ********************************************************************
        obrot        1
        utrata_energi    -1   -1   5
        timeout      4   7
-       przedmiot     6   -6   16   -16   2
+       przedmiot     6  -23   20   -38   2
     odglos
        rodzaj  35
        moc    200
