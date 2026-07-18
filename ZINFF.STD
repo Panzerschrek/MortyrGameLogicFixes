@@ -6420,8 +6420,8 @@ rem ********************************************************************
    operacja 0                  // stoi
      animacja_naprzod
        anim_nr    94  start     0  liczba_obr 82
-       add_x       0  add_y     0  add_z     -32
-       szer_x     14  szer_y   14  szer_z     32
+       add_x       0  add_y     0  add_z     -29
+       szer_x     14  szer_y   14  szer_z     29
        aktywnosc   1  maska     5
      sternik
        tryb_pracy   1
@@ -6434,8 +6434,8 @@ rem ********************************************************************
    operacja 1                // do biegu
      animacja_naprzod
        anim_nr    94  start    82  liczba_obr 10
-       add_x       0  add_y     0  add_z     -32
-       szer_x     14  szer_y   14  szer_z     32
+       add_x       0  add_y     0  add_z     -28
+       szer_x     14  szer_y   14  szer_z     28
        aktywnosc   1  maska     5
      sternik
        tryb_pracy    1
@@ -6447,8 +6447,8 @@ rem ********************************************************************
    operacja 2                  // bieg
      animacja_naprzod
        anim_nr    94  start    92  liczba_obr 36
-       add_x       0  add_y     0  add_z     -32
-       szer_x     14  szer_y   14  szer_z     32
+       add_x       0  add_y     0  add_z     -28
+       szer_x     14  szer_y   14  szer_z     28
        aktywnosc   1  maska     5
      sternik
        tryb_pracy   1
@@ -6461,8 +6461,8 @@ rem ********************************************************************
    operacja 3                // do strzalu
      animacja_naprzod
        anim_nr    94  start   128  liczba_obr 10
-       add_x       0  add_y     0  add_z     -32
-       szer_x     14  szer_y   14  szer_z     32
+       add_x       0  add_y     0  add_z     -28
+       szer_x     14  szer_y   14  szer_z     28
        aktywnosc   1  maska     5
      sternik
        tryb_pracy    2
@@ -6475,8 +6475,8 @@ rem ********************************************************************
    operacja 4                // strzal #1
      animacja_naprzod
        anim_nr    94  start   138  liczba_obr 8
-       add_x       0  add_y     0  add_z     -32
-       szer_x     14  szer_y   14  szer_z     32
+       add_x       0  add_y     0  add_z     -28
+       szer_x     14  szer_y   14  szer_z     28
        aktywnosc   1  maska     5
      sternik
        tryb_pracy    2
@@ -6492,8 +6492,8 @@ rem ********************************************************************
    operacja 5                // strzal #2
      animacja_naprzod
        anim_nr    94  start   146  liczba_obr 8
-       add_x       0  add_y     0  add_z     -32
-       szer_x     14  szer_y   14  szer_z     32
+       add_x       0  add_y     0  add_z     -28
+       szer_x     14  szer_y   14  szer_z     28
        aktywnosc   1  maska     5
      sternik
        tryb_pracy    2
@@ -6509,8 +6509,8 @@ rem ********************************************************************
    operacja 6                // strzal #3
      animacja_naprzod
        anim_nr    94  start   154  liczba_obr 8
-       add_x       0  add_y     0  add_z     -32
-       szer_x     14  szer_y   14  szer_z     32
+       add_x       0  add_y     0  add_z     -28
+       szer_x     14  szer_y   14  szer_z     28
        aktywnosc   1  maska     5
      sternik
        tryb_pracy    2
@@ -6527,8 +6527,8 @@ rem ********************************************************************
    operacja 7                // do stoi
      animacja_naprzod
        anim_nr    94  start   162  liczba_obr 12
-       add_x       0  add_y     0  add_z     -32
-       szer_x     14  szer_y   14  szer_z     32
+       add_x       0  add_y     0  add_z     -28
+       szer_x     14  szer_y   14  szer_z     28
        aktywnosc   1  maska     5
      sternik
        tryb_pracy    1
@@ -6540,8 +6540,8 @@ rem ********************************************************************
    operacja 8                // przewrot
      animacja_naprzod
        anim_nr    94  start   174  liczba_obr 32
-       add_x       0  add_y     0  add_z     -32
-       szer_x     14  szer_y   14  szer_z     32
+       add_x       0  add_y     0  add_z     -28
+       szer_x     14  szer_y   14  szer_z     28
        aktywnosc   1  maska     5
      sternik
        tryb_pracy    1
@@ -6553,8 +6553,8 @@ rem ********************************************************************
    operacja 9                // pada
      animacja_naprzod
        anim_nr    94  start   206  liczba_obr 40
-       add_x       0  add_y     0  add_z     -32
-       szer_x     14  szer_y   14  szer_z     32
+       add_x       0  add_y     0  add_z     -28
+       szer_x     14  szer_y   14  szer_z     28
        aktywnosc   1  maska     5
      sternik
        tryb_pracy    1
@@ -6572,8 +6572,8 @@ rem ********************************************************************
    operacja 10                // lezy
      animacja_naprzod
        anim_nr    94  start   246  liczba_obr 1
-       add_x       0  add_y     0  add_z     -32
-       szer_x      0  szer_y    0  szer_z     32
+       add_x       0  add_y     0  add_z     -28
+       szer_x      0  szer_y    0  szer_z     28
        aktywnosc   1  maska     5
 
 
