@@ -8345,13 +8345,13 @@ rem ********************************************************************
    obsluga_kolizji  -1   -1  -1
    slad_na_scianie  -1
    kolizja_mur 0
-   nazwa kick
+   nazwa noz
    
    
  narzedzie 1
    typ_przedmiotu  BRON_A
    ikona   30
-   bohater_ma      1
+   bohater_ma      0
    bohater_ma_max  1
    ammo_przedm    15
    animacja  3
@@ -8375,7 +8375,7 @@ rem ********************************************************************
    celnosc_broni_wrogow  50
    celnosc_broni_gracza 0
    kolizja_mur 0
-   nazwa  Mauser Rifle
+   nazwa  karabin Mauser
    
  narzedzie 2
    typ_przedmiotu  BRON_B
@@ -8441,7 +8441,7 @@ rem ********************************************************************
    pierwszy_blik 24
    obsluga_kolizji  10   10  10
    kolizja_mur 0
-   nazwa  Subautomatic Assault Rifle
+   nazwa  automatyczny karabin szturmowy
 
 
  narzedzie 4
@@ -8542,7 +8542,7 @@ rem ********************************************************************
    odrzut            0
    slad_na_scianie  -1
    kolizja_mur 0
-   nazwa  hand grenade
+   nazwa  granat reczny
    
    
  narzedzie 7
@@ -8617,7 +8617,7 @@ rem ********************************************************************
    celnosc_broni_wrogow  200
    celnosc_broni_gracza 300
 
-   nazwa  flame thrower
+   nazwa  miotacz plomieni
 
 
  narzedzie 9
@@ -8646,7 +8646,7 @@ rem ********************************************************************
    obsluga_kolizji  1012   14  14
    dymienie         1
    celnosc_broni_wrogow  40
-   nazwa  Plasma Launcher.
+   nazwa  miotacz plazmy
 
    
 
@@ -8736,12 +8736,12 @@ rem ********************************************************************
    obraz         0
    predkosc     32
    strzelnosc   20
-   nazwa  Ammo 9mm
+   nazwa  Amunicja 9mm
 
  narzedzie 15
    typ_przedmiotu  POCISK_B
    ikona  35
-   bohater_ma     5
+   bohater_ma     2
    bohater_ma_max 200
    ammo_przedm   -1
    animacja  18
@@ -8753,7 +8753,7 @@ rem ********************************************************************
    obraz         0
    predkosc     32
    strzelnosc   20
-   nazwa  Ammo 7,92mm
+   nazwa  Amunicja 7,92mm
 
  narzedzie 16
    typ_przedmiotu  POCISK_C
@@ -8787,7 +8787,7 @@ rem ********************************************************************
    obraz         0
    predkosc     32
    strzelnosc   20
-   nazwa  hand grenade
+   nazwa  granat reczny
 
  narzedzie 18
    typ_przedmiotu  OSLONA
@@ -8804,7 +8804,7 @@ rem ********************************************************************
    obraz         0
    predkosc     32
    strzelnosc   20
-   nazwa  armor
+   nazwa  zbroja
 
  narzedzie 19
    typ_przedmiotu  APTECZKA
@@ -8821,7 +8821,7 @@ rem ********************************************************************
    obraz         0
    predkosc     32
    strzelnosc   20
-   nazwa  health
+   nazwa  zdrowie
 
  narzedzie 20
    typ_przedmiotu  PLECAK_LOT
@@ -8855,7 +8855,7 @@ rem ********************************************************************
    obraz         0
    predkosc     32
    strzelnosc   20
-   nazwa  night vision goggles
+   nazwa  noktowizor
 
  narzedzie 22
    typ_przedmiotu  LATARKA
@@ -8872,7 +8872,7 @@ rem ********************************************************************
    obraz         0
    predkosc     32
    strzelnosc   20
-   nazwa  lamp
+   nazwa  latarka
 
  narzedzie 23
    typ_przedmiotu  BUTLA_TLENU
@@ -8923,7 +8923,7 @@ rem ********************************************************************
    obraz         0
    predkosc     32
    strzelnosc   20
-   nazwa  toxic waste protection
+   nazwa  ochrona przed kwasem
 
  narzedzie 26
    typ_przedmiotu  WZMACNIACZ_BRONI
@@ -8991,7 +8991,7 @@ rem ********************************************************************
    obraz         0
    predkosc     32
    strzelnosc   20
-   nazwa  infrared
+   nazwa  podczerwien
 
  narzedzie 30
    typ_przedmiotu  POCISK_E
@@ -9008,7 +9008,7 @@ rem ********************************************************************
    obraz         0
    predkosc     32
    strzelnosc   20
-   nazwa  ammo flamethrower
+   nazwa  amunicja do miotacza plomieni
 
  narzedzie 31
    typ_przedmiotu  POCISK_F
@@ -9025,7 +9025,7 @@ rem ********************************************************************
    obraz         0
    predkosc     32
    strzelnosc   20
-   nazwa  assault bullets
+   nazwa  pociski szturmowe
 
  narzedzie 32
    typ_przedmiotu  POCISK_G
@@ -9042,7 +9042,7 @@ rem ********************************************************************
    obraz         0
    predkosc     32
    strzelnosc   20
-   nazwa  Gehenna Seeds
+   nazwa  nasienie Gehenny
 
  narzedzie 34
    typ_przedmiotu  POCISK_H
@@ -9059,7 +9059,7 @@ rem ********************************************************************
    obraz         0
    predkosc     32
    strzelnosc   20
-   nazwa  Plasma Balls.
+   nazwa  plazma.
 
 
 

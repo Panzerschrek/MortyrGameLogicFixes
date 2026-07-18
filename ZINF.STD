@@ -8559,7 +8559,7 @@ rem ********************************************************************
    obsluga_kolizji  -1   -1  -1
    slad_na_scianie  -1
    kolizja_mur 0
-   nazwa kick
+   nazwa kop
    
  narzedzie 1
    typ_przedmiotu   BRON_A
@@ -8584,7 +8584,7 @@ rem ********************************************************************
    slad_na_scianie  -1
    kolizja_mur 0
 
-   nazwa knife
+   nazwa noz
    
    
  narzedzie 2
@@ -8643,7 +8643,7 @@ rem ********************************************************************
    celnosc_broni_wrogow  40
    celnosc_broni_gracza 0
    kolizja_mur 0
-   nazwa  Mauser Rifle
+   nazwa  Karabin Mauser
    
  narzedzie 4
    typ_przedmiotu  BRON_D
@@ -8748,7 +8748,7 @@ rem ********************************************************************
    odrzut            0
    slad_na_scianie  -1
    kolizja_mur 0
-   nazwa  hand grenade
+   nazwa  granat reczny
    
    
  narzedzie 7
@@ -8825,7 +8825,7 @@ rem ********************************************************************
    celnosc_broni_wrogow  200
    celnosc_broni_gracza 300
 
-   nazwa  flame thrower
+   nazwa  miotacz ognia
    
 
 
@@ -8858,7 +8858,7 @@ rem ********************************************************************
    odrzut            12
    kolizja_mur 0
 
-   nazwa  podreczny dezintegrator protonowy
+   nazwa  heh, nic tu nie ma!
    
  narzedzie 10
    typ_przedmiotu  BRON_J
@@ -8893,7 +8893,7 @@ rem ********************************************************************
    obraz         0
    predkosc     32
    strzelnosc   20
-   nazwa  Golden key
+   nazwa  Zloty klucz
  
  narzedzie 12
    typ_przedmiotu  KARTA_B
@@ -8910,7 +8910,7 @@ rem ********************************************************************
    obraz         0
    predkosc     32
    strzelnosc   20
-   nazwa  Silver key
+   nazwa  Srebrny klucz
 
  narzedzie 13
    typ_przedmiotu  KARTA_C
@@ -8927,7 +8927,7 @@ rem ********************************************************************
    obraz         0
    predkosc     32
    strzelnosc   20
-   nazwa  Blue key
+   nazwa  Blekitny klucz
  
  narzedzie 14
    typ_przedmiotu  POCISK_A
@@ -8944,7 +8944,7 @@ rem ********************************************************************
    obraz         0
    predkosc     32
    strzelnosc   20
-   nazwa  Ammo 9mm
+   nazwa  Amunicja 9mm
 
  narzedzie 15
    typ_przedmiotu  POCISK_B
@@ -8961,7 +8961,7 @@ rem ********************************************************************
    obraz         0
    predkosc     32
    strzelnosc   20
-   nazwa  Ammo 7,92mm
+   nazwa  Amunicja 7,92mm
 
  narzedzie 16
    typ_przedmiotu  POCISK_C
@@ -8995,7 +8995,7 @@ rem ********************************************************************
    obraz         0
    predkosc     32
    strzelnosc   20
-   nazwa  hand grenade
+   nazwa  granaty
 
  narzedzie 18
    typ_przedmiotu  OSLONA
@@ -9012,7 +9012,7 @@ rem ********************************************************************
    obraz         0
    predkosc     32
    strzelnosc   20
-   nazwa  armor
+   nazwa  zbroja
 
  narzedzie 19
    typ_przedmiotu  APTECZKA
@@ -9029,7 +9029,7 @@ rem ********************************************************************
    obraz         0
    predkosc     32
    strzelnosc   20
-   nazwa  health
+   nazwa  zdrowie
 
  narzedzie 20
    typ_przedmiotu  PLECAK_LOT
@@ -9063,7 +9063,7 @@ rem ********************************************************************
    obraz         0
    predkosc     32
    strzelnosc   20
-   nazwa  night vision goggles
+   nazwa  noktowizor
 
  narzedzie 22
    typ_przedmiotu  LATARKA
@@ -9080,7 +9080,7 @@ rem ********************************************************************
    obraz         0
    predkosc     32
    strzelnosc   20
-   nazwa  flashlight
+   nazwa  latarka
 
  narzedzie 23
    typ_przedmiotu  BUTLA_TLENU
@@ -9131,7 +9131,7 @@ rem ********************************************************************
    obraz         0
    predkosc     32
    strzelnosc   20
-   nazwa  toxic waste protection
+   nazwa  ochrona przed kwasem
 
  narzedzie 26
    typ_przedmiotu  WZMACNIACZ_BRONI
@@ -9199,7 +9199,7 @@ rem ********************************************************************
    obraz         0
    predkosc     32
    strzelnosc   20
-   nazwa  infrared
+   nazwa  podczerwien
 
  narzedzie 30
    typ_przedmiotu  POCISK_E
@@ -9216,7 +9216,7 @@ rem ********************************************************************
    obraz         0
    predkosc     32
    strzelnosc   20
-   nazwa  flamethrower fuel
+   nazwa  paliwo do miotacza plomieni
 
  narzedzie 31
    typ_przedmiotu  POCISK_F
@@ -9267,7 +9267,7 @@ rem ********************************************************************
    obraz         0
    predkosc     32
    strzelnosc   20
-   nazwa  Quantum Receptor piece.
+   nazwa  Czesc Quantum Receptor
 
 
 
