@@ -2344,8 +2344,8 @@ rem ********************************************************************
    operacja 0                            // patrol
      animacja_naprzod
        anim_nr    24  start  280  liczba_obr 44
-       add_x    0  add_y    0  add_z  -32
-       szer_x  14  szer_y  14  szer_z  32
+       add_x    0  add_y    0  add_z  -30
+       szer_x  14  szer_y  14  szer_z  30
        aktywnosc 1  maska     5
      sternik
        tryb_pracy   1
@@ -2359,8 +2359,8 @@ rem ********************************************************************
    operacja 1                               // bierz papierosa
      animacja_naprzod
        anim_nr    24  start     0  liczba_obr 160
-       add_x    0  add_y    0  add_z  -32
-       szer_x  14  szer_y  14  szer_z  32
+       add_x    0  add_y    0  add_z  -30
+       szer_x  14  szer_y  14  szer_z  30
        aktywnosc 1  maska     5
      sternik
        tryb_pracy   1
@@ -2391,8 +2391,8 @@ rem ********************************************************************
    operacja 2                    // z papierosem
      animacja_naprzod
        anim_nr    24  start   162  liczba_obr  29
-       add_x    0  add_y    0  add_z  -32
-       szer_x  14  szer_y  14  szer_z  32
+       add_x    0  add_y    0  add_z  -30
+       szer_x  14  szer_y  14  szer_z  30
        aktywnosc 1  maska     5
      sternik
        tryb_pracy   1
@@ -2406,8 +2406,8 @@ rem ********************************************************************
    operacja 3                   //          zaciagniecie sie petem
      animacja_naprzod
        anim_nr    24  start   192  liczba_obr  67
-       add_x    0  add_y    0  add_z  -32
-       szer_x  14  szer_y  14  szer_z  32
+       add_x    0  add_y    0  add_z  -30
+       szer_x  14  szer_y  14  szer_z  30
        aktywnosc 1  maska     5
      sternik
        tryb_pracy   1
@@ -2439,8 +2439,8 @@ rem ********************************************************************
    operacja 4                   //          rzucenie peta
      animacja_naprzod
        anim_nr    24  start   260  liczba_obr   3
-       add_x    0  add_y    0  add_z  -32
-       szer_x  14  szer_y  14  szer_z  32
+       add_x    0  add_y    0  add_z  -30
+       szer_x  14  szer_y  14  szer_z  30
        aktywnosc 1  maska     5
      sternik
        tryb_pracy   1
@@ -2453,8 +2453,8 @@ rem ********************************************************************
    operacja  5                   //          do patrolu
      animacja_naprzod
        anim_nr    24  start   264  liczba_obr   7
-       add_x    0  add_y    0  add_z  -32
-       szer_x  14  szer_y  14  szer_z  32
+       add_x    0  add_y    0  add_z  -30
+       szer_x  14  szer_y  14  szer_z  30
        aktywnosc 1  maska     5
      sternik
        tryb_pracy   1
@@ -2467,8 +2467,8 @@ rem ********************************************************************
    operacja  6                           // postrzal 
      animacja_naprzod
        anim_nr    24  start   448  liczba_obr  7
-       add_x   0  add_y    0  add_z  -32
-       szer_x  14  szer_y  14  szer_z  32
+       add_x   0  add_y    0  add_z  -30
+       szer_x  14  szer_y  14  szer_z  30
        aktywnosc 1  maska     5
      sternik
        tryb_pracy   2
@@ -2480,8 +2480,8 @@ rem ********************************************************************
    operacja  7                          // zgon
      animacja_naprzod
        anim_nr    24  start   458  liczba_obr  84
-       add_x    0  add_y    0  add_z   -32
-       szer_x  24  szer_y  24  szer_z   32
+       add_x    0  add_y    0  add_z   -30
+       szer_x  24  szer_y  24  szer_z   30
        aktywnosc 1  maska     5
      sternik
        tryb_pracy   2
@@ -2509,8 +2509,8 @@ rem ********************************************************************
    operacja  9                // do biegu
      animacja_naprzod
        anim_nr    24  start   324  liczba_obr   3
-       add_x    0  add_y    0  add_z  -32
-       szer_x  14  szer_y  14  szer_z  32
+       add_x    0  add_y    0  add_z  -30
+       szer_x  14  szer_y  14  szer_z  30
        aktywnosc 1  maska     5
      sternik
        tryb_pracy   1
@@ -2522,8 +2522,8 @@ rem ********************************************************************
    operacja  10                // bieg
      animacja_naprzod
        anim_nr    24  start   328  liczba_obr 21
-       add_x    0  add_y    0  add_z  -32
-       szer_x  14  szer_y  14  szer_z  32
+       add_x    0  add_y    0  add_z  -30
+       szer_x  14  szer_y  14  szer_z  30
        aktywnosc 1  maska     5
      sternik
        tryb_pracy   1
@@ -2536,8 +2536,8 @@ rem ********************************************************************
    operacja  11              // do rzutu
      animacja_naprzod
        anim_nr    24  start   350  liczba_obr  7
-       add_x    0  add_y    0  add_z  -32
-       szer_x  14  szer_y  14  szer_z  32
+       add_x    0  add_y    0  add_z  -30
+       szer_x  14  szer_y  14  szer_z  30
        aktywnosc 1  maska     5
      sternik
        tryb_pracy   2
@@ -2549,8 +2549,8 @@ rem ********************************************************************
    operacja  12            // rzut granatem
      animacja_naprzod
        anim_nr    24  start   358  liczba_obr  31
-       add_x    0  add_y    0  add_z  -32
-       szer_x  16  szer_y  16  szer_z  32
+       add_x    0  add_y    0  add_z  -30
+       szer_x  16  szer_y  16  szer_z  30
        aktywnosc 1  maska     5
      sternik
        tryb_pracy   2
@@ -2563,8 +2563,8 @@ rem ********************************************************************
    operacja  13            // poddanie sie
      animacja_naprzod
        anim_nr    24  start   390  liczba_obr   7
-       add_x    0  add_y    0  add_z  -32
-       szer_x  16  szer_y  16  szer_z  32
+       add_x    0  add_y    0  add_z  -30
+       szer_x  16  szer_y  16  szer_z  30
        aktywnosc 1  maska     5
      sternik
        tryb_pracy   2
@@ -2579,8 +2579,8 @@ rem ********************************************************************
    operacja  14            // rece w gorze i oddycha
      animacja_naprzod
        anim_nr    24  start   398  liczba_obr   31
-       add_x    0  add_y    0  add_z  -32
-       szer_x  16  szer_y  16  szer_z  32
+       add_x    0  add_y    0  add_z  -30
+       szer_x  16  szer_y  16  szer_z  30
        aktywnosc 1  maska     5
      sternik
        tryb_pracy   2
@@ -2594,8 +2594,8 @@ rem ********************************************************************
    operacja  15            // rece w gorze i kreci glowa
      animacja_naprzod
        anim_nr    24  start   430  liczba_obr   17
-       add_x    0  add_y    0  add_z  -32
-       szer_x  16  szer_y  16  szer_z  32
+       add_x    0  add_y    0  add_z  -30
+       szer_x  16  szer_y  16  szer_z  30
        aktywnosc 1  maska     5
      sternik
        tryb_pracy   2
