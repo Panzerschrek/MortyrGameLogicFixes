@@ -2390,7 +2390,7 @@ rem ********************************************************************
        ilosc 8
        delta  6
     odglos
-       rodzaj  103
+       rodzaj  115
        moc    100
 
    operacja 2                    // z papierosem
