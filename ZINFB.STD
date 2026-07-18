@@ -2497,7 +2497,7 @@ rem ********************************************************************
        los_ammo       0
        ob_specjalny  74
     odglos
-       rodzaj 106
+       rodzaj  15
        moc    100
        
    operacja  8
