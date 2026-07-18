@@ -1,0 +1,184 @@
+
+ // zwiazanie odglosow z zdarzeniami
+ boh_do_wody      = 13         // *
+ boh_do_kwasu     = -1
+ boh_do_lawy      =  1
+ boh_z_wody       = 42         // *
+ boh_rana         = 26         // * bylo 15
+ boh_umiera       =  0
+ boh_krok_lewy    =  20        // *
+ boh_krok_prawy   =  21        // *
+ boh_upadek       =  41        // *
+ boh_podskok      =  95
+ boh_tonacy       =  89
+
+ winda_standard =  22           // *
+ menu_standard  =  1            // *
+ przelacznik_standard =  4
+ szklo_standard      =   9      // *
+ drzwi_standard      =   23     // *
+ sekret_standard     =  -1
+ trzesienie_ziemi_standard = -1;
+ silna_eksplozja_standard = 2;
+ start_ptakow             = 24;
+ plusk_pocisku = -1
+ panika_szczurow = -1
+
+ podnies_bron_a        =  5;
+ podnies_bron_b        =  5;
+ podnies_bron_c        =  5;
+ podnies_bron_d        =  5;
+ podnies_bron_e        =  5;
+ podnies_bron_f        =  5;
+ podnies_bron_g        = 79;
+ podnies_bron_h        =  5;
+ podnies_bron_i        =  5;
+ podnies_bron_j        =  5;
+ podnies_bron_k        =  5;
+
+ podnies_kata_a       = 98;
+ podnies_kata_b       = 98;
+ podnies_kata_c       = 98;
+
+ podnies_apteczka      = 104
+ podnies_oslona        =  97
+ podnies_inne          = 100
+ podnies_kwas_skaf      = 100
+ podnies_niewidzialnosc = 100
+ podnies_butla_tlenu    = 100
+ podnies_latarka        = 100
+ podnies_noktowizor     = 100
+ podnies_plecak_lot     = 100
+
+ przeciwnik_rana_1     =  14
+ przeciwnik_rana_2     =  15
+ przeciwnik_rana_3     =  16
+ przeciwnik_rana_4     =  17
+ 
+ przeciwnik_wolanie_1     =  18
+ przeciwnik_wolanie_2     =  19
+ przeciwnik_wolanie_3     =  93
+ przeciwnik_wolanie_4     =  96
+
+
+ //    lista odglosow
+ odglos  0 empty.wav      100    // *
+ odglos  1 menumove.wav   100    // *
+ odglos  2 butla.wav      200    // *
+ odglos  3 ryko2.wav      100    // * rykoszet
+ odglos  4 noammo.wav     100    // * przelacznik
+ odglos  5 pickup.wav     100    // *
+ odglos  6 parabel.wav    100    // * bron
+ odglos  7 mg42.wav       100    // * bron
+ odglos  8 mauser.wav     100    // * mauser
+ odglos  9 szklo.wav      100    // * MP40 niemcuf
+ odglos 10 krokl1.wav     100    // * szyba itp.
+ odglos 11 ryko2.wav      100    // * uderzenie pocisku obiekt
+ odglos 12 krokl2.wav     100    // * uderzenie pocisku sciana
+ 
+ odglos 13 plusk.wav      100    // *
+ odglos 14 alka1.wav      100    // * 
+ odglos 15 alka2.wav      100    // *
+ odglos 16 alka3.wav      100    // * 
+ odglos 17 alka4.wav      100    // *
+ odglos 18 halt1.wav      100    // *
+ odglos 19 hande.wav      100    // *
+ odglos 20 kr_b1.wav      100    // *
+ odglos 21 kr_b2.wav      100    // *
+ odglos 22 winda1.wav     100    // *
+ odglos 23 drzwi1.wav     100    // *
+ odglos 24 skrzydla.wav   100    // *
+ odglos 25 schnew.wav     100    // * moje strzelanie
+ odglos 26 wcialo1.wav    100    // * ja dostaje 
+ odglos 27 pnzer.wav      100    // * panzerfaust
+ odglos 28 kop.wav        100    // * kop    
+ odglos 29 kaszel.wav     100    // * kaszel Niemca
+ odglos 30 nicht1.wav     100    // * nicht schissen!
+ odglos 31 alarm.wav      150    // * syrena 1.
+ odglos 32 lupdrew.wav    100
+ odglos 33 kroks1.wav     100    // krok na sniegu
+ odglos 34 kroks2.wav     100    // krok na sniegu
+ odglos 35 w2str.wav      100    // gun turret napierdala
+ odglos 36 druidsh.wav    100    // druid fjuczer strzela
+ odglos 37 automat.wav    100    // yatimatic
+ odglos 38 edhalt.wav     200    // Ed haltuje
+ odglos 39 w2halt.wav     200    // wieza haltuje
+ odglos 40 w2nuda.wav     100    // wieza nuda
+ odglos 41 spad.wav       100    // *
+ odglos 42 wyplywa.wav    100    // ja wyplywam
+ odglos 43 sar.wav        100    // test
+ odglos 44 flame.wav      100    // test
+ odglos 45 biggun.wav     100    // test
+ odglos 46 gehenna.wav    100    // test
+ odglos 47 edstr.wav      100    // test
+ odglos 48 jetson.wav     100    // test
+ odglos 49 w2pada.wav     100    // test
+ odglos 50 ednuda.wav     100    // test
+ odglos 51 edchodzi.wav   100    // test
+ odglos 52 edpada.wav     100    // test
+ odglos 53 w1str.wav      100    // test
+ odglos 54 w1halt.wav     100    // test
+ odglos 55 w1nuda.wav     100    // test
+ odglos 56 w1pada.wav     100    // test
+ odglos 57 plasma.wav     100    // plasma thrower
+ odglos 58 sdkfz.wav      100    // sdkfz
+ odglos 59 i_drew.wav     100    // test
+ odglos 60 i_snieg.wav    100    // test
+ odglos 61 i_metal.wav    100    // test
+ odglos 62 i_kam.wav      100    // test
+ odglos 63 krokk1.wav     100    // test
+ odglos 64 krokk2.wav     100    // test
+ odglos 65 krokm1.wav     100    // test
+ odglos 66 krokm2.wav     100    // test
+ odglos 67 krokd1.wav     100    // test
+ odglos 68 krokd2.wav     100    // test
+ odglos 69 pkpada.wav     100    // test
+ odglos 70 pkchodzi.wav   100    // test
+ odglos 71 dog_halt.wav   100    // test
+ odglos 72 dog_atak.wav   100    // test
+ odglos 73 dog_pada.wav   100    // test
+ odglos 74 tig_engn.wav   256    // test
+ odglos 75 tig_fire.wav   256    // test
+ odglos 76 tig_move.wav   256    // test
+ odglos 77 tig_wall.wav   256    // test
+ odglos 78 tig_move.wav   256    // test pada
+ odglos 79 ech_panz.wav   100    // gadki Mortyra:
+ odglos 80 stat.wav       100    // test
+ odglos 81 boots.wav      100    // test
+ odglos 82 fridge.wav     100    // test
+ odglos 83 cant.wav       100    // test
+ odglos 84 infin.wav      100    // test
+ odglos 85 przem1.wav     100    // test
+ odglos 86 cold.wav       100    // test
+ odglos 87 przem2.wav     100    // test
+ odglos 88 stinks.wav     100    // test pada
+ odglos 89 tonie.wav      100    // boh. tonie
+ odglos 90 whthat.wav     100    // test
+ odglos 91 whhave.wav     100    // test pada
+ odglos 92 whereis.wav    100    // podskok.
+ odglos 93 hel_halt.wav   100    // test
+ odglos 94 knife.wav      100    // test
+ odglos 95 skok.wav       100    // test
+ odglos 96 mg_halt.wav    100    // test
+ odglos 97 parmor.wav     100    // podnies zbroje
+ odglos 98 pkey.wav       100    // podnies klucz
+ odglos 99 pquant.wav     100    // podnies quantum
+ odglos 100 pammo.wav      100    // podnies ammo
+ odglos 101 sis_nd.wav     100    // test pada
+ odglos 102 sis_nd1.wav    100    // 
+ odglos 103 kr_b1.wav      100    // test
+ odglos 104 apteka.wav     100    // test pada
+ odglos 105 kr_b2.wav      100    // 
+ odglos 106 empty.wav      100    // 
+ odglos 107 armor.wav      100    // 
+ odglos 108 apteka.wav     100    // 
+ odglos 109 ges_pap.wav    100    // 
+ odglos 110 ges_halt.wav   100    // 
+ odglos 111 ges_pada.wav   100    // 
+ odglos 112 pan_pada.wav   100    // 
+ odglos 113 czp_kasl.wav   100    // 
+ odglos 114 czp_pada.wav   100    // 
+
+
+ end
+eof 
