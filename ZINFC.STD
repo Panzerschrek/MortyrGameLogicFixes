@@ -4356,7 +4356,7 @@ rem ********************************************************************
        tryb_pracy   1
        szybkosc     8
        obrot        1
-       w_zasiegu_strzalu_a  23  3  10
+       w_zasiegu_strzalu_b  23  3  10
        utrata_energi    4   4   5
        
 
