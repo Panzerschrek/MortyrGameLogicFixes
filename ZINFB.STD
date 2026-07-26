@@ -8549,7 +8549,7 @@ rem ********************************************************************
    blysk_koncowy     4   20
    model_pocisku    POCISK_A
    
-   dane_strzalu   0   0  12   20   -50      0   0
+   dane_strzalu   0   0  14   20   -47      0   0
    dane_broni     0    32   32   55   32   55   88  520
    pierwszy_blik 24        
    obsluga_kolizji  1012   1012  2000
