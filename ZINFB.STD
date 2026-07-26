@@ -8641,18 +8641,18 @@ rem ********************************************************************
    blysk_koncowy     4   15
    model_pocisku    POCISK_A
 
-   dane_strzalu   0   0  10   20   -46      0   0
-   dane_strzalu   1   1  12   22   -48    -40   0
-   dane_strzalu   2   2  14   24   -47      0   0
-   dane_strzalu   3   3  12   22   -45     40   0
-   dane_strzalu   4   4  10   20   -46      0   0
-   dane_strzalu   5   5  12   18   -45    -40   0
-   dane_strzalu   6   6  14   20   -47      0   0
-   dane_strzalu   7   7  12   22   -48     40   0
-   dane_strzalu   8   8  10   24   -45      0   0
-   dane_strzalu   9   9  12   22   -47    -40   0
-   dane_strzalu  10  10  14   20   -46      0   0
-   dane_strzalu  11  11  12   18   -48     40   0
+   dane_strzalu   0   0   9   19   -45      0   0
+   dane_strzalu   1   1  10   21   -46    -40   0
+   dane_strzalu   2   2  11   22   -46      0   0
+   dane_strzalu   3   3  10   21   -44     40   0
+   dane_strzalu   4   4   9   19   -45      0   0
+   dane_strzalu   5   5  10   17   -44    -40   0
+   dane_strzalu   6   6  11   19   -46      0   0
+   dane_strzalu   7   7  10   21   -46     40   0
+   dane_strzalu   8   8   9   22   -44      0   0
+   dane_strzalu   9   9  10   21   -46    -40   0
+   dane_strzalu  10  10  11   19   -45      0   0
+   dane_strzalu  11  11  10   17   -46     40   0
    dane_broni     0    23   23   60   23   60   102  460
    pierwszy_blik  1
    obsluga_kolizji  1012   1012  2000
