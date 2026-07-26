@@ -8652,7 +8652,7 @@ rem ********************************************************************
    pole_razenia_pocisku 200
    model_pocisku    3
 
-   dane_strzalu   0    25    10   12   -44     0    0
+   dane_strzalu   0    25    17   12   -51     0    0
    dane_broni     0    36   36   90    36   90   126  330
    obsluga_kolizji   14   14   14
    przeladowanie     1
