@@ -8720,10 +8720,10 @@ rem ********************************************************************
    blysk_koncowy     4  20
    model_pocisku    2
 
-   dane_strzalu   0     0    6   12   -48     0    0
-   dane_strzalu   1     4    6   12   -48     -40    0
-   dane_strzalu   2     8    6   12   -48     20    0
-   dane_strzalu   4     12    6   12   -48    10    0
+   dane_strzalu   0     0    7   13   -48     0    0
+   dane_strzalu   1     4    7   13   -48     -40    0
+   dane_strzalu   2     8    7   13   -48     20    0
+   dane_strzalu   4     12    7   13   -48    10    0
 
    dane_broni     0    36   36   116    36    116   152   260
    pierwszy_blik 24
