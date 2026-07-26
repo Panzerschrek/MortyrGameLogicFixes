@@ -1,5 +1,4 @@
 This document describes what changes may be reasonable or even necessary to do:
 
-* Fix shot positions for player weapons so that muzzle flashes are as close to the muzzle of the visible weapon models as possible.
 * Fix grenade throwing delay on multiplayer maps to match delay used by the grenade throwing animation.
-* Fix sounds of the gestapo enemy. It uses Parabellum shot sounds sometimes, which isn't correct.
+* Add non-empty player death sound.
