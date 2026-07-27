@@ -7425,9 +7425,9 @@ rem ********************************************************************
        predkosc_x  0    predkosc_y  0   predkosc_z  -1
        and_czas    7
        model_dymu  0
- //   odglos
- //      rodzaj  78
- //      moc    255
+    odglos
+       rodzaj  78
+       moc    255
 
    operacja  6           // zgon cd
      animacja_kierunkowa
