@@ -5,7 +5,7 @@
  boh_do_lawy      =  1
  boh_z_wody       = 42         // *
  boh_rana         = 26         // * bylo 15
- boh_umiera       =  0
+ boh_umiera       =  114
  boh_krok_lewy    =  20        // *
  boh_krok_prawy   =  21        // *
  boh_upadek       =  41        // *
