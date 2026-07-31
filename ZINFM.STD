@@ -3766,7 +3766,7 @@ rem ********************************************************************
        moc    256
        
    operacja 5
-     animacja_naprzod
+     animacja_owad
        anim_nr    60  start   250  liczba_obr 1
        add_x    0  add_y    0  add_z   -8
        szer_x  24  szer_y  24  szer_z   8
