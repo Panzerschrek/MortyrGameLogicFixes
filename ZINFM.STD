@@ -4885,6 +4885,7 @@ rem ********************************************************************
 
  aktor  79    5     1     0     1    2   lampa_1
  standardowe_odglosy  0
+ zabron_redukcji 1
 
    operacja 0
      animacja_naprzod
