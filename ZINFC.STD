@@ -5309,6 +5309,9 @@ rem ********************************************************************
  rem  *************************************************************************
 
  aktor  82    5     1     1     1    2   flash
+ standardowe_odglosy  0
+ zabron_redukcji 1
+
    operacja 0
      animacja_naprzod
        anim_nr     80  start    0  liczba_obr 4
