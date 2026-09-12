@@ -4943,7 +4943,7 @@ rem ********************************************************************
    operacja 1
      animacja_naprzod
        anim_nr     77  start    0  liczba_obr 30
-       add_x    0  add_y    0  add_z  -1
+       add_x    0  add_y    0  add_z  -4
        szer_x   4  szer_y   4  szer_z  4
        aktywnosc 1  maska     5
      sternik
