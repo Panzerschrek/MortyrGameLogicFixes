@@ -1,4 +1,4 @@
-This repository contains corrected game logic files for game *Mortyr 2093-1944*.
+This repository contains corrected game logic files for game [Mortyr 2093-1944](https://en.wikipedia.org/wiki/Mortyr).
 
 These fixes are based on the English version of the game.
 They work in the Polish version too, but English weapon and pick-up names are used instead of Polish ones.
