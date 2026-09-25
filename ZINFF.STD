@@ -2896,6 +2896,9 @@ rem ********************************************************************
        aktywnosc 0  maska     5
      stoper
        czas   16    nowa_op 2
+    odglos
+       rodzaj  32
+       moc    100
    operacja 2
       animacja_naprzod
        anim_nr    41  start    15  liczba_obr 1
